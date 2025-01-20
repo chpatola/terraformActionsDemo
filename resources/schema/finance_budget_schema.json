@@ -9,7 +9,7 @@
         "name": "target_value",
         "type": "NUMERIC",
         "mode": "NULLABLE",
-        "description": "Target value for the budget item in euro"
+        "description": "Target value for the budget item"
     },
     {
         "name": "year",
